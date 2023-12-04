@@ -1,0 +1,9 @@
+
+
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
+[user]
+	name = Luis Roberto
+	email = roberto4luis1@gmail.com

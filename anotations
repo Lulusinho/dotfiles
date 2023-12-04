@@ -1,0 +1,6 @@
+install chrome
+ unrar unzip clang gcc g++ 
+ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+ chsh -s $(which zsh)
+ git clone azsh-autosuggestions
+ FiraCode font
